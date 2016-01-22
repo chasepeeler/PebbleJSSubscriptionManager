@@ -1,0 +1,16 @@
+{
+  "name": "pebble-subscription-manager",
+  "version": "0.0.0",
+  "description": "Module for creating watched based interfaces for managing subscriptions to timeline topics managed by your app.",
+  "author": "Peeler Coding, LLC <chase@peelercoding.com>",
+  "bugs": {
+    "url": "https://github.com/chasepeeler/PebbleJSSubscriptionManager/issues"
+  },
+  "homepage": "https://github.com/chasepeeler/PebbleJSSubscriptionManager",
+  "keywords": ["pebble", "pebble-js","pebblejs"],
+  "license": "MIT",
+  "files": ["subscription_manager.js"],
+  "main": "subscription_manager.js",
+  "repository": "chasepeeler/PebbleJSSubscriptionManager"
+
+}
