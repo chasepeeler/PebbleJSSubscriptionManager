@@ -3,11 +3,22 @@ Module for creating watched based interfaces for managing subscriptions to timel
 
 ## How To Use:
 
+### 0) Install
+
+Save the files to your src/ directory, or install in the src/ directory using npm: `npm install pebble-subscription-manager`
+
 ### 1) Load the module with require:
 
+If the files are in your src/ directory:
 ```javascript
 var SubscriptionManager = require("subscription_manager");
 ```
+
+If you installed via npm:
+```javascript
+var SubscriptionManager = require("node_modules/pebble-subscription-manager/subscription_manager");
+```
+
 
 ### 2) Initialize module
 
